@@ -1,6 +1,7 @@
 const socket = io("/");
 const peer = new Peer(undefined, {
   host: "/",
+  path: '/peerjs',
   port: "3001",
 });
 const videos = document.getElementById("video");

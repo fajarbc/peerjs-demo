@@ -11,7 +11,4 @@ npm install
 npm start
 ```
 
-# Run Express
-```bash
-peerjs --port 3001
-```
+Visit http://localhost:3001/
